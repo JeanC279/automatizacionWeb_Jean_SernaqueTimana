@@ -1,0 +1,71 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R ] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 924 >>
+stream
+BT
+/F1 9 Tf
+46 789 Td
+13 TL
+(NTT | REPORTE DE REGRESION - TIENDA QALAB) Tj
+T*
+(Inicio: 2026-11-03 02:09:05     Fin: 2026-11-03 02:09:25) Tj
+T*
+(URL: https://qalab.bensg.com/store/pe/) Tj
+T*
+(Estado general: APROBADO) Tj
+T*
+(Escenarios: 4 | Aprobados: 4 | Fallidos: 0 | Otros: 0) Tj
+T*
+() Tj
+T*
+(DETALLE DE ESCENARIOS) Tj
+T*
+([PASSED] ValidaciÛn del precio de un producto) Tj
+T*
+([PASSED] La tienda se encuentra disponible y lista productos) Tj
+T*
+([PASSED] Credenciales invalidas no permiten acceder a la cuenta) Tj
+T*
+([PASSED] Una categoria inexistente no permite continuar el flujo) Tj
+T*
+() Tj
+T*
+(NOTA DE ALCANCE) Tj
+T*
+(La prueba de catalogo confirma productos visibles desde la web.) Tj
+T*
+(No verifica una conexion directa a la base de datos.) Tj
+T*
+(Las pruebas negativas APRUEBAN cuando el sistema rechaza la accion invalida.) Tj
+T*
+(Consultar target/cucumber/cucumber-report.html para pasos y capturas.) Tj
+T*
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000122 00000 n 
+0000000217 00000 n 
+0000000343 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1317
+%%EOF
